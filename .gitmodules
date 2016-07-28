@@ -1,0 +1,3 @@
+[submodule "reddit-net-api"]
+	path = reddit-net-api
+	url = git://github.com/sparcopt/reddit-net-api.git
